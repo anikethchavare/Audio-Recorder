@@ -1,0 +1,33 @@
+/* Audio Recorder - main.css */
+
+/* This file is licensed under the MIT License.
+
+You can view the license at
+https://github.com/anikethchavare/Audio-Recorder/blob/main/LICENSE.txt.
+
+Written by Aniketh Chavare <anikethchavare@outlook.com>, 2023 */
+
+body {
+    background-color: #EAEAEA;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 35px;
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 3px;
+    background-color: transparent;
+    font-family: Verdana;
+    cursor: pointer;
+}
+
+button:hover {
+    border: 2px solid grey;
+    background-color: grey;
+    color: #EAEAEA;
+}
